@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1626136350 source:c:\users\sergi\onedrive\documentos\sergio\ciclo2021-1\estructura de datos y algoritmos\boyermoorealgorithmpruebas\boyermoorealgorithmc3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+
+1626201874 source:d:\trabajo de eda\algoritmosconpruebas\boyermoorealgorithm_pruebas\boyermoorealgorithmc3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+

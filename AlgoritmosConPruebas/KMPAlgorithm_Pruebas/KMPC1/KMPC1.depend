@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1626137204 source:d:\trabajo de eda\kmpversiónfinal\kmpc1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+
+1626201873 source:d:\trabajo de eda\algoritmosconpruebas\kmpalgorithm_pruebas\kmpc1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1626129112 source:d:\trabajo de eda\naivealgorithmc1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+
+1626131189 source:d:\trabajo de eda\naivealgorithmpruebas\naivealgorithmc1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+
+1626201873 source:d:\trabajo de eda\algoritmosconpruebas\naivealgorithm_pruebas\naivealgorithmc1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+

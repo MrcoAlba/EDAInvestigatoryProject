@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1626201873 source:d:\trabajo de eda\algoritmosconpruebas\kmpalgorithm_pruebas\kmpc3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+
